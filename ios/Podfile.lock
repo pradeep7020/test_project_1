@@ -1,0 +1,22 @@
+PODS:
+  - cashfree_pg (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - cashfree_pg (from `.symlinks/plugins/cashfree_pg/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  cashfree_pg:
+    :path: ".symlinks/plugins/cashfree_pg/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  cashfree_pg: 4d216897f5b81020f5be03de34363d4539600b07
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: fd09e7a17499faeee2ef1f67a605c59fa53ef866
+
+COCOAPODS: 1.10.1

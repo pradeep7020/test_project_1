@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/pradeep/Projects/flutter/user/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/pradeep/Projects/flutter/user/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/pradeep/Projects/flutter/user/build/ios/Debug-iphoneos/Flutter.framework/Headers/Flutter.h
